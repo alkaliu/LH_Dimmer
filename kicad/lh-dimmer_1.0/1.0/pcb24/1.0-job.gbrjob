@@ -1,0 +1,87 @@
+{
+"DesignRules": [
+{
+"Layers": "Outer",
+"MinLineWidth": 0.35,
+"PadToPad": 0.2,
+"PadToTrack": 0.2,
+"RegionToRegion": 0.508,
+"TrackToRegion": 0.508,
+"TrackToTrack": 0.2
+}
+],
+"FilesAttributes": [
+{
+"FileFunction": "SolderMask,Top",
+"FilePolarity": "Negative",
+"Path": "1.0-F_Mask.gbr"
+}
+],
+"GeneralSpecs": {
+"BoardThickness": 1.6,
+"Finish": "None",
+"LayerNumber": 2,
+"ProjectId": {
+"GUID": "6c682d64-696d-46d6-9572-2e6b69636164",
+"Name": "lh-dimmer",
+"Revision": "rev?"
+},
+"Size": {
+"X": 172.3,
+"Y": 94.3
+}
+},
+"Header": {
+"CreationDate": "2022-08-22T12:09:38+03:00",
+"GenerationSoftware": {
+"Application": "Pcbnew",
+"Vendor": "KiCad",
+"Version": "(6.0.1)"
+}
+},
+"MaterialStackup": [
+{
+"Name": "Top Silk Screen",
+"Type": "Legend"
+},
+{
+"Name": "Top Solder Paste",
+"Type": "SolderPaste"
+},
+{
+"Name": "Top Solder Mask",
+"Thickness": 0.01,
+"Type": "SolderMask"
+},
+{
+"Name": "F.Cu",
+"Thickness": 0.035,
+"Type": "Copper"
+},
+{
+"Material": "FR4",
+"Name": "F.Cu/B.Cu",
+"Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)",
+"Thickness": 1.51,
+"Type": "Dielectric"
+},
+{
+"Name": "B.Cu",
+"Thickness": 0.035,
+"Type": "Copper"
+},
+{
+"Name": "Bottom Solder Mask",
+"Thickness": 0.01,
+"Type": "SolderMask"
+},
+{
+"Name": "Bottom Solder Paste",
+"Type": "SolderPaste"
+},
+{
+"Name": "Bottom Silk Screen",
+"Type": "Legend"
+}
+]
+}

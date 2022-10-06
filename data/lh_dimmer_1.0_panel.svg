@@ -1,0 +1,1591 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="lh_dimmer_1.0_panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-center="true"
+     inkscape:snap-grids="true"
+     inkscape:zoom="1.6481621"
+     inkscape:cx="247.54847"
+     inkscape:cy="143.1898"
+     inkscape:window-width="2560"
+     inkscape:window-height="1334"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1216"
+       units="mm"
+       spacingx="0.5"
+       spacingy="0.5" />
+    <sodipodi:guide
+       position="54.999999,267.50001"
+       orientation="0,-1"
+       id="guide145242" />
+    <sodipodi:guide
+       position="48.499999,255.00001"
+       orientation="1,0"
+       id="guide145244" />
+    <sodipodi:guide
+       position="161.5,251"
+       orientation="1,0"
+       id="guide145246" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path11" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path14" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path16" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path18" />
+    </pattern>
+    <marker
+       id="DistanceX-5"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path43" />
+    </marker>
+    <pattern
+       id="Hatch-9"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path46" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path48" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path50" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g39"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.499999,-1)">
+      <g
+         inkscape:label="BLACK"
+         id="g23" />
+      <g
+         inkscape:label="0"
+         id="g25" />
+    </g>
+    <g
+       id="g71"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.499999,-1)">
+      <g
+         inkscape:label="BLACK"
+         id="g55" />
+      <g
+         inkscape:label="0"
+         id="g57" />
+    </g>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499128;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:auto"
+       id="rect95"
+       width="155.9695"
+       height="78.331779"
+       x="10.258958"
+       y="7.4993706" />
+    <ellipse
+       style="opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.353334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240"
+       cx="19.500002"
+       cy="29.499992"
+       rx="2"
+       ry="1.999995" />
+    <ellipse
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.353334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-9"
+       cx="37.5"
+       cy="29.499992"
+       rx="2"
+       ry="1.999995" />
+    <ellipse
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.353334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-1"
+       cx="55"
+       cy="29.499992"
+       rx="2"
+       ry="1.999995" />
+    <ellipse
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.353334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-93"
+       cx="78.5"
+       cy="29.499992"
+       rx="2"
+       ry="1.999995" />
+    <circle
+       style="opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-0"
+       cx="37.5"
+       cy="29.5"
+       r="1.5" />
+    <circle
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-0-5"
+       cx="19.500002"
+       cy="29.5"
+       r="1.5" />
+    <circle
+       style="opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-8"
+       cx="55"
+       cy="29.499992"
+       r="1.5" />
+    <circle
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-8-8"
+       cx="48.5"
+       cy="42"
+       r="1.5" />
+    <circle
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-8-8-0"
+       cx="48.5"
+       cy="49.5"
+       r="1.5" />
+    <circle
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-8-8-0-9"
+       cx="48.5"
+       cy="60"
+       r="1.5" />
+    <circle
+       style="opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-0-1"
+       cx="78.5"
+       cy="29.5"
+       r="1.5" />
+    <circle
+       style="opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-4"
+       cx="96.5"
+       cy="29.5"
+       r="1.5" />
+    <circle
+       style="opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-0-2"
+       cx="120.5"
+       cy="29.5"
+       r="1.5" />
+    <circle
+       style="opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-8-7"
+       cx="138.5"
+       cy="29.5"
+       r="1.5" />
+    <circle
+       style="opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-0-1-0"
+       cx="156.5"
+       cy="29.5"
+       r="1.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.544107"
+       y="25.636883"
+       id="text7754"><tspan
+         sodipodi:role="line"
+         id="tspan22226"
+         x="16.544107"
+         y="25.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CH 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="34.31673"
+       y="25.636883"
+       id="text7754-41"><tspan
+         sodipodi:role="line"
+         id="tspan22226-8"
+         x="34.31673"
+         y="25.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CH 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="51.816727"
+       y="25.636883"
+       id="text7754-41-7"><tspan
+         sodipodi:role="line"
+         id="tspan22226-8-5"
+         x="51.816727"
+         y="25.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CH 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="75.203041"
+       y="25.636883"
+       id="text7754-41-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan22226-8-5-9"
+         x="75.203041"
+         y="25.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CH 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="93.316727"
+       y="25.636883"
+       id="text7754-41-7-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan22226-8-5-9-9"
+         x="93.316727"
+         y="25.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CH 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="117.31673"
+       y="25.636883"
+       id="text7754-41-7-2-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan22226-8-5-9-9-7"
+         x="117.31673"
+         y="25.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CH 6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.31673"
+       y="25.636883"
+       id="text7754-41-7-2-5-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan22226-8-5-9-9-7-4"
+         x="135.31673"
+         y="25.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CH 7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="153.31673"
+       y="25.636883"
+       id="text7754-41-7-2-5-9-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan22226-8-5-9-9-7-4-3"
+         x="153.31673"
+         y="25.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CH 8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="18.748289"
+       y="17.636883"
+       id="text7754-4"><tspan
+         sodipodi:role="line"
+         id="tspan22226-9"
+         x="18.748289"
+         y="17.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">LED 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="51.953842"
+       y="42.909504"
+       id="text7754-8-1-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan22226-3-2-2-6"
+         x="51.953842"
+         y="42.909504">RX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="51.770576"
+       y="50.409504"
+       id="text7754-8-1-5-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan22226-3-2-2-6-9"
+         x="51.770576"
+         y="50.409504">TX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="52.134834"
+       y="60.909508"
+       id="text7754-8-1-5-7-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan22226-3-2-2-6-9-4"
+         x="52.134834"
+         y="60.909508">Power</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 17.5,11.5 v 3"
+       id="path68935" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 17.5,14.5 H 27.500001"
+       id="path68937" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 27.500001,11.5 v 3"
+       id="path68939" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="18.385691"
+       y="13.455076"
+       id="text75763"
+       transform="scale(1.0000109,0.99998911)"><tspan
+         sodipodi:role="line"
+         id="tspan75761"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="18.385691"
+         y="13.455076">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="24.385859"
+       y="13.614143"
+       id="text75763-7"><tspan
+         sodipodi:role="line"
+         id="tspan75761-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="24.385859"
+         y="13.614143">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="42.134834"
+       y="78.409508"
+       id="text7754-4-3"><tspan
+         sodipodi:role="line"
+         x="42.134834"
+         y="78.409508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan47069">Power</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="21.134836"
+       y="77.909508"
+       id="text7754-4-3-8"><tspan
+         sodipodi:role="line"
+         x="21.134836"
+         y="77.909508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan47069-3">RS485</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.500002,82.5 v -3"
+       id="path68935-2" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 50.500002,79.5 H 40.500001"
+       id="path68937-6" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 40.500001,82.5 v -3"
+       id="path68939-4" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="47.544811"
+       y="81.926498"
+       id="text75763-2"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="47.544811"
+         y="81.926498">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-44.114143"
+       y="-79.885857"
+       id="text75763-7-4"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-7-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="-44.114143"
+         y="-79.885857">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.112564"
+       y="78.409508"
+       id="text7754-4-3-6"><tspan
+         sodipodi:role="line"
+         x="71.112564"
+         y="78.409508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan47069-4">BUT 1</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.000002,82.5 v -3"
+       id="path68935-2-64" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 79.000002,79.5 H 69.000001"
+       id="path68937-6-4" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 69.000001,82.5 v -3"
+       id="path68939-4-6" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="70.840088"
+       y="82.043938"
+       id="text75763-2-2"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="70.840088"
+         y="82.043938">G</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 32,82.500003 v -3"
+       id="path68935-2-6" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 32.000001,79.500003 H 16.999999"
+       id="path68937-6-2" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16.999999,82.500003 v -3"
+       id="path68939-4-2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="23.568743"
+       y="81.805626"
+       id="text75763-2-4"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="23.568743"
+         y="81.805626">B-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="74.862488"
+       y="82.06662"
+       id="text75763-2-4-0"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-5-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="74.862488"
+         y="82.06662">In1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="81.112564"
+       y="78.409508"
+       id="text7754-4-3-6-3"><tspan
+         sodipodi:role="line"
+         x="81.112564"
+         y="78.409508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan47069-4-7">BUT 2</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 89.000001,82.5 v -3"
+       id="path68935-2-64-1" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 89.000001,79.5 h -10"
+       id="path68937-6-4-4" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="80.839859"
+       y="82.09436"
+       id="text75763-2-2-2"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-8-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="80.839859"
+         y="82.09436">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="84.862259"
+       y="82.117043"
+       id="text75763-2-4-0-1"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-5-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="84.862259"
+         y="82.117043">In2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="91.112556"
+       y="78.409508"
+       id="text7754-4-3-6-3-5"><tspan
+         sodipodi:role="line"
+         x="91.112556"
+         y="78.409508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan47069-4-7-3">BUT 3</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 99.000001,82.5 v -3"
+       id="path68935-2-64-1-8" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 99.000001,79.5 h -10"
+       id="path68937-6-4-4-3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="90.839615"
+       y="82.144768"
+       id="text75763-2-2-2-3"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-8-6-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="90.839615"
+         y="82.144768">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="94.862015"
+       y="82.16745"
+       id="text75763-2-4-0-1-8"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-5-6-8-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="94.862015"
+         y="82.16745">In3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="101.11256"
+       y="78.409508"
+       id="text7754-4-3-6-3-5-2"><tspan
+         sodipodi:role="line"
+         x="101.11256"
+         y="78.409508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan47069-4-7-3-7">BUT 4</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 109,82.5 v -3"
+       id="path68935-2-64-1-8-8" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 109,79.5 H 99.000001"
+       id="path68937-6-4-4-3-8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="100.83939"
+       y="82.19519"
+       id="text75763-2-2-2-3-4"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-8-6-7-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="100.83939"
+         y="82.19519">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="104.86179"
+       y="82.217873"
+       id="text75763-2-4-0-1-8-5"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-5-6-8-4-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="104.86179"
+         y="82.217873">In4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="122.61255"
+       y="78.409508"
+       id="text7754-4-3-6-5"><tspan
+         sodipodi:role="line"
+         x="122.61255"
+         y="78.409508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan47069-4-9">BUT 5</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130.5,82.5 v -3"
+       id="path68935-2-64-5" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130.5,79.5 h -10"
+       id="path68937-6-4-42" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.5,82.5 v -3"
+       id="path68939-4-6-5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="122.33887"
+       y="82.303574"
+       id="text75763-2-2-7"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-8-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="122.33887"
+         y="82.303574">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="126.36127"
+       y="82.326256"
+       id="text75763-2-4-0-9"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-5-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="126.36127"
+         y="82.326256">In5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="132.61255"
+       y="78.409508"
+       id="text7754-4-3-6-3-9"><tspan
+         sodipodi:role="line"
+         x="132.61255"
+         y="78.409508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan47069-4-7-35">BUT 6</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.5,82.5 v -3"
+       id="path68935-2-64-1-3" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.5,79.5 h -10"
+       id="path68937-6-4-4-1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="132.33865"
+       y="82.353996"
+       id="text75763-2-2-2-7"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-8-6-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="132.33865"
+         y="82.353996">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="136.36105"
+       y="82.376678"
+       id="text75763-2-4-0-1-0"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-5-6-8-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="136.36105"
+         y="82.376678">In6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="142.61255"
+       y="78.409508"
+       id="text7754-4-3-6-3-5-6"><tspan
+         sodipodi:role="line"
+         x="142.61255"
+         y="78.409508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan47069-4-7-3-9">BUT 7</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 150.5,82.5 v -3"
+       id="path68935-2-64-1-8-9" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 150.5,79.5 h -10"
+       id="path68937-6-4-4-3-81" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="142.33839"
+       y="82.404404"
+       id="text75763-2-2-2-3-41"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-8-6-7-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="142.33839"
+         y="82.404404">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="146.36079"
+       y="82.427086"
+       id="text75763-2-4-0-1-8-3"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-5-6-8-4-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="146.36079"
+         y="82.427086">In7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="152.61255"
+       y="78.409508"
+       id="text7754-4-3-6-3-5-2-5"><tspan
+         sodipodi:role="line"
+         x="152.61255"
+         y="78.409508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan47069-4-7-3-7-3">BUT 8</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160.5,82.5 v -3"
+       id="path68935-2-64-1-8-8-5" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160.5,79.5 h -10"
+       id="path68937-6-4-4-3-8-7" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="152.33817"
+       y="82.454826"
+       id="text75763-2-2-2-3-4-1"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-8-6-7-4-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="152.33817"
+         y="82.454826">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="156.36057"
+       y="82.477509"
+       id="text75763-2-4-0-1-8-5-2"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-5-6-8-4-3-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="156.36057"
+         y="82.477509">In8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="18.000143"
+       y="81.777893"
+       id="text75763-2-4-4"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-5-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="18.000143"
+         y="81.777893">A+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="29.045244"
+       y="81.833229"
+       id="text75763-2-4-4-5"
+       transform="matrix(0.99999819,-0.00504141,0.0050413,0.9999764,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-74-5-5-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="29.045244"
+         y="81.833229">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="33.748287"
+       y="17.636883"
+       id="text7754-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan22226-9-6"
+         x="33.748287"
+         y="17.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">LED 2</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 32.5,11.5 v 3"
+       id="path68935-7" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 32.5,14.5 H 42.500001"
+       id="path68937-8" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 42.500001,11.5 v 3"
+       id="path68939-6" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="33.385529"
+       y="13.455076"
+       id="text75763-78"
+       transform="scale(1.0000109,0.99998911)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="33.385529"
+         y="13.455076">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="39.385857"
+       y="13.614143"
+       id="text75763-7-8"><tspan
+         sodipodi:role="line"
+         id="tspan75761-7-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="39.385857"
+         y="13.614143">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="76.748291"
+       y="17.636883"
+       id="text7754-4-99"><tspan
+         sodipodi:role="line"
+         id="tspan22226-9-0"
+         x="76.748291"
+         y="17.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">LED 4</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 75.500001,11.5 v 3"
+       id="path68935-1" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 75.500001,14.5 h 10"
+       id="path68937-5" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85.500001,11.5 v 3"
+       id="path68939-8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="76.385048"
+       y="13.455078"
+       id="text75763-6"
+       transform="scale(1.0000109,0.99998911)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="76.385048"
+         y="13.455078">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="82.385857"
+       y="13.614143"
+       id="text75763-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan75761-7-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="82.385857"
+         y="13.614143">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="91.748283"
+       y="17.636883"
+       id="text7754-4-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan22226-9-6-4"
+         x="91.748283"
+         y="17.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">LED 5</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.500021,11.5 v 3"
+       id="path68935-7-2" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.500021,14.5 h 9.999999"
+       id="path68937-8-9" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 100.50002,11.5 v 3"
+       id="path68939-6-2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="91.384888"
+       y="13.455078"
+       id="text75763-78-1"
+       transform="scale(1.0000109,0.99998911)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-8-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="91.384888"
+         y="13.455078">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="97.385849"
+       y="13.614143"
+       id="text75763-7-8-34"><tspan
+         sodipodi:role="line"
+         id="tspan75761-7-6-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="97.385849"
+         y="13.614143">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="48.748287"
+       y="17.636883"
+       id="text7754-4-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan22226-9-6-3"
+         x="48.748287"
+         y="17.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">LED 3</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.5,11.5 v 3"
+       id="path68935-7-6" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 47.5,14.5 H 57.500001"
+       id="path68937-8-4" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 57.500001,11.5 v 3"
+       id="path68939-6-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="48.385365"
+       y="13.455076"
+       id="text75763-78-0"
+       transform="scale(1.0000109,0.99998911)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-8-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="48.385365"
+         y="13.455076">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="54.385857"
+       y="13.614143"
+       id="text75763-7-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan75761-7-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="54.385857"
+         y="13.614143">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="120.74828"
+       y="17.636883"
+       id="text7754-4-1"><tspan
+         sodipodi:role="line"
+         id="tspan22226-9-7"
+         x="120.74828"
+         y="17.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">LED 6</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.5,11.5 v 3"
+       id="path68935-5" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.5,14.5 h 10"
+       id="path68937-2" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.5,11.5 v 3"
+       id="path68939-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="120.38456"
+       y="13.455076"
+       id="text75763-1"
+       transform="scale(1.0000109,0.99998911)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="120.38456"
+         y="13.455076">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="126.38583"
+       y="13.614143"
+       id="text75763-7-81"><tspan
+         sodipodi:role="line"
+         id="tspan75761-7-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="126.38583"
+         y="13.614143">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.74828"
+       y="17.636883"
+       id="text7754-4-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan22226-9-6-1"
+         x="135.74828"
+         y="17.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">LED 7</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.5,11.5 v 3"
+       id="path68935-7-7" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.5,14.5 h 10"
+       id="path68937-8-3" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 144.5,11.5 v 3"
+       id="path68939-6-3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="135.3844"
+       y="13.455076"
+       id="text75763-78-7"
+       transform="scale(1.0000109,0.99998911)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-8-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="135.3844"
+         y="13.455076">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="141.38583"
+       y="13.614143"
+       id="text75763-7-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan75761-7-6-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="141.38583"
+         y="13.614143">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="150.74828"
+       y="17.636883"
+       id="text7754-4-9-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan22226-9-6-3-6"
+         x="150.74828"
+         y="17.636883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">LED 8</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 149.5,11.5 v 3"
+       id="path68935-7-6-2" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 149.5,14.5 h 10"
+       id="path68937-8-4-3" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 159.5,11.5 v 3"
+       id="path68939-6-9-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264572"
+       x="150.38423"
+       y="13.455076"
+       id="text75763-78-0-1"
+       transform="scale(1.0000109,0.99998911)"><tspan
+         sodipodi:role="line"
+         id="tspan75761-8-1-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93868px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264572"
+         x="150.38423"
+         y="13.455076">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="156.38583"
+       y="13.614143"
+       id="text75763-7-8-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan75761-7-6-8-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="156.38583"
+         y="13.614143">+</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.000001,39.499997 2,3e-6"
+       id="path120190"
+       inkscape:transform-center-x="4"
+       inkscape:transform-center-y="-0.5000055" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 22.000001,40.5 2,-0.999997 -2,-1.000003 c 0,-0.0354 0,0.41508 0,0.62262 V 40.5"
+       id="path120192"
+       sodipodi:nodetypes="ccccc"
+       inkscape:transform-center-x="2"
+       inkscape:transform-center-y="-0.50098956" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 24.000001,40.500003 v -2"
+       id="path120194"
+       inkscape:transform-center-x="1"
+       inkscape:transform-center-y="-0.500001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 24.000001,39.500003 2,2e-6 1,2e-6 v 1"
+       id="path120196"
+       inkscape:transform-center-y="1e-06"
+       inkscape:transform-center-x="-0.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 29.000001,40.500009 v -1"
+       id="path120198"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="5e-06"
+       inkscape:transform-center-x="-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 29.000001,39.500009 2,3e-6"
+       id="path120200"
+       inkscape:transform-center-x="-5"
+       inkscape:transform-center-y="-0.4999935" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 31.000001,40.500012 v -2"
+       id="path120202"
+       inkscape:transform-center-x="-6"
+       inkscape:transform-center-y="-0.499992" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 26.000001,41.500005 v -1"
+       id="path120204"
+       inkscape:transform-center-x="-1"
+       inkscape:transform-center-y="1.000001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 26.000001,40.500005 4,6e-6 v 1"
+       id="path120206"
+       sodipodi:nodetypes="ccc"
+       inkscape:transform-center-x="-3"
+       inkscape:transform-center-y="1.000004" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.000001,39.499997 -2,-2e-6"
+       id="path120208"
+       inkscape:transform-center-x="6"
+       inkscape:transform-center-y="-0.500008" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.000001,39.499995 1,1.000001"
+       id="path120210"
+       inkscape:transform-center-y="-8.5e-06"
+       inkscape:transform-center-x="6.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.000001,39.499995 1,-0.999999"
+       id="path120212"
+       inkscape:transform-center-x="6.5"
+       inkscape:transform-center-y="-1.0000085" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 26.000001,41.500005 -3,-4e-6"
+       id="path122598"
+       inkscape:transform-center-x="0.5"
+       inkscape:transform-center-y="1.499999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 30.000001,41.500011 2,2e-6"
+       id="path122600"
+       inkscape:transform-center-x="-6"
+       inkscape:transform-center-y="1.500008" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 26.500001,41.500006 1,10e-7"
+       id="path122604"
+       inkscape:transform-center-x="-2"
+       inkscape:transform-center-y="1.5000025" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 27.000001,42.000007 v -1"
+       id="path122608"
+       inkscape:transform-center-x="-2"
+       inkscape:transform-center-y="1.500003" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.141421;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 29.000001,42.000009 v -1"
+       id="path122614"
+       inkscape:transform-center-x="-4"
+       inkscape:transform-center-y="1.500005" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="42.839695"
+       y="75.182129"
+       id="text5104"><tspan
+         sodipodi:role="line"
+         id="tspan5102"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="42.839695"
+         y="75.182129">6...30V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="121.27058"
+       y="66.909515"
+       id="text7754-4-3-1"><tspan
+         sodipodi:role="line"
+         x="121.27058"
+         y="66.909515"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan47069-9">USB com</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 130.5,71 V 68"
+       id="path68935-2-0" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130.5,68 h -10"
+       id="path68937-6-6" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 120.5,71 V 68"
+       id="path68939-4-8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="119.67917"
+       y="72.454758"
+       id="text5104-2"><tspan
+         sodipodi:role="line"
+         id="tspan5102-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="119.67917"
+         y="72.454758">usb +5v unconnected</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="19.110964"
+       y="43.572815"
+       id="text104704"><tspan
+         sodipodi:role="line"
+         id="tspan104702"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="19.110964"
+         y="43.572815">отдельная земля на </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="19.110964"
+         y="45.336704"
+         id="tspan105759">каждый канал</tspan></text>
+    <rect
+       id="rect123273"
+       width="17"
+       height="10.5"
+       x="16.000002"
+       y="36.500004"
+       style="fill:none;stroke:#000000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       id="rect123273-4"
+       width="17"
+       height="6"
+       x="146.5"
+       y="62.5"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.0491354;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-8-8-7"
+       cx="161.5"
+       cy="46"
+       r="1.5" />
+    <circle
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-8-8-0-2"
+       cx="161.5"
+       cy="57"
+       r="1.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="152.49864"
+       y="47.145618"
+       id="text7754-8-1-5-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan22226-3-2-2-6-8"
+         x="152.49864"
+         y="47.145618">CPU </tspan><tspan
+         sodipodi:role="line"
+         x="152.49864"
+         y="50.673393"
+         id="tspan1802">reset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="152.49864"
+       y="57.645618"
+       id="text7754-8-1-5-7-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan22226-3-2-2-6-9-8"
+         x="152.49864"
+         y="57.645618">SW</tspan><tspan
+         sodipodi:role="line"
+         x="152.49864"
+         y="61.173393"
+         id="tspan4954">reset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="69.353996"
+       y="44.728516"
+       id="text36272"><tspan
+         sodipodi:role="line"
+         id="tspan36270"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="69.353996"
+         y="44.728516">LH-DIMMER<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan42994">v1.0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="146.95088"
+       y="64.818329"
+       id="text69833"><tspan
+         sodipodi:role="line"
+         id="tspan69831"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="146.95088"
+         y="64.818329">СБРОС - перезагрузить при</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="146.95088"
+         y="78.047455"
+         id="tspan76567" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="146.95088"
+         y="91.276581"
+         id="tspan73745" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="147.03888"
+       y="66.136658"
+       id="text69833-3"><tspan
+         sodipodi:role="line"
+         id="tspan69831-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="147.03888"
+         y="66.136658">при помощи CPU reset</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="147.03888"
+         y="79.365784"
+         id="tspan76567-6" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="147.03888"
+         y="92.59491"
+         id="tspan73745-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="147.01637"
+       y="67.273079"
+       id="text69833-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan69831-8-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="147.01637"
+         y="67.273079">с зажатой SW reset</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="147.01637"
+         y="80.502205"
+         id="tspan76567-6-5" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="147.01637"
+         y="93.731331"
+         id="tspan73745-0-3" /></text>
+    <ellipse
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.353334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-2"
+       cx="96.5"
+       cy="29.499992"
+       rx="2"
+       ry="1.999995" />
+    <ellipse
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.353334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-933"
+       cx="120.5"
+       cy="29.5"
+       rx="2"
+       ry="1.999995" />
+    <ellipse
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.353334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-18"
+       cx="138.5"
+       cy="29.499992"
+       rx="2"
+       ry="1.999995" />
+    <ellipse
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.353334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-42"
+       cx="156.5"
+       cy="29.499992"
+       rx="2"
+       ry="1.999995" />
+    <ellipse
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.353334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-29"
+       cx="161.5"
+       cy="46"
+       rx="2"
+       ry="1.999995" />
+    <ellipse
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.353334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-7"
+       cx="161.5"
+       cy="57"
+       rx="2"
+       ry="1.999995" />
+    <ellipse
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.353334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-28"
+       cx="48.5"
+       cy="42"
+       rx="2"
+       ry="1.999995" />
+    <ellipse
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.353334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-3"
+       cx="48.5"
+       cy="49.5"
+       rx="2"
+       ry="1.999995" />
+    <ellipse
+       style="display:inline;opacity:0.89;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.353334;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1240-72"
+       cx="48.5"
+       cy="60"
+       rx="2"
+       ry="1.999995" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.41111px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:24.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="84.5"
+       y="63"
+       id="text120851"
+       transform="translate(-15.016398,-12.954296)"><tspan
+         x="84.5"
+         y="63"
+         id="tspan156320"><tspan
+           style="font-size:2.11667px;font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal'"
+           id="tspan156318">Defaults: 9600-n-1, adr:55</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.41111px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:24.5;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="84.5"
+       y="63"
+       id="text120851-7"
+       transform="translate(35.089585,11.454752)"><tspan
+         x="84.5"
+         y="63"
+         id="tspan156324"><tspan
+           style="font-family:ISOCPEUR;-inkscape-font-specification:'ISOCPEUR, Normal'"
+           id="tspan156322">115200-n-1</tspan></tspan></text>
+  </g>
+</svg>

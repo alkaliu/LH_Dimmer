@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "dsh_Modules")(type "Legacy")(uri "${KIPRJMOD}/dsh_Modules.lib")(options "")(descr ""))
+)
